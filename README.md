@@ -1,0 +1,2 @@
+# Health-Website 
+A health website serves as an online platform providing health-related information, resources, and services.It can be a resource for patients seeking information about specific conditions, treatments, or healthcare providers, or a tool for healthcare professionals to share information and connect with patients. These websites can also offer tools for health management, appointment scheduling, and access to patient portals. 
